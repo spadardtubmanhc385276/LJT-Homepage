@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate at the [HKUST NLP Group](https://hkunlp.github.io/), Hong Kong University of Science and Technology, where I am supervised by Professor Junxian He. I completed my B.Eng. at Shanghai Jiao Tong University (SJTU) in June 2024, where I was also advised by Professor Junxian He, and I was awarded the Zhiyuan Honor Scholarship by SJTU.
+I am a first-year Ph.D. candidate at the HKUST NLP Group, Hong Kong University of Science and Technology, where I am supervised by Professor Junxian He. I completed my B.Eng. at Shanghai Jiao Tong University (SJTU) in June 2024, where I was also advised by Professor Junxian He, and I was awarded the Zhiyuan Honor Scholarship by SJTU.
 
 My research focuses on natural language processing and machine learning. My research interests include:
 
@@ -41,8 +41,6 @@ Skills
 
 Publications
 ======
-*Ph.D. supervisor Professor Junxian He is a co-author on these works.*
-
 1. **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond." *Arxiv*, 2025. (First author)
 2. **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. "On the Perception Bottleneck of VLMs for Chart Understanding." *Arxiv*, 2025. (First author)
 3. **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He. "On the Universal Truthfulness Hyperplane Inside LLMs." *EMNLP 2024*. (First author)
@@ -50,7 +48,7 @@ Publications
 5. Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models." *NeurIPS 2023*.
 6. Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He. "Composing Parameter-Efficient Modules with Arithmetic Operations." *NeurIPS 2023*.
 
-A full list of my articles is also available on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate), and the same list is collected on the [Publications](/publications/) page.
+The same list is also collected on the [Publications](/publications/) page, and my articles can be found on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 Contact
 ======
